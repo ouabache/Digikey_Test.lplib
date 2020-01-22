@@ -1,0 +1,10 @@
+(librepcb_library 91851fb7-d0cf-4afc-892e-104d21e5bd76
+ (name "Digikey_Test")
+ (description "experimental repo for kicad conversion tool.  Do Not use")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-21T22:25:09Z)
+ (deprecated false)
+ (url "")
+)

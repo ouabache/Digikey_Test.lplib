@@ -1,0 +1,10 @@
+(librepcb_component_category dc8b48d4-9c88-42fc-8bdc-27d2a7329617
+ (name "FILTERS")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T16:41:43Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

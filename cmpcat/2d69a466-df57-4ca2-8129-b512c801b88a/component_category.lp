@@ -1,0 +1,10 @@
+(librepcb_component_category 2d69a466-df57-4ca2-8129-b512c801b88a
+ (name "LOGIC")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-21T22:32:24Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

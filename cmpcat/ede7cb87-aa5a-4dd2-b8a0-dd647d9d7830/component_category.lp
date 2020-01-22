@@ -1,0 +1,10 @@
+(librepcb_component_category ede7cb87-aa5a-4dd2-b8a0-dd647d9d7830
+ (name "OPTICAL")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:36:22Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

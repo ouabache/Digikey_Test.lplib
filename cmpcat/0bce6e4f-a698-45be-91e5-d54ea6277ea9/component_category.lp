@@ -1,0 +1,10 @@
+(librepcb_component_category 0bce6e4f-a698-45be-91e5-d54ea6277ea9
+ (name "TRANSISTORS")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-21T23:57:13Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 35523619-6463-466a-8e36-e415840ce461
+ (name "DIODES")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-21T23:55:53Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

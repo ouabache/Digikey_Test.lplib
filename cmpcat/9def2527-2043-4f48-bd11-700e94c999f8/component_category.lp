@@ -1,0 +1,10 @@
+(librepcb_component_category 9def2527-2043-4f48-bd11-700e94c999f8
+ (name "RELAYS")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T02:17:32Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

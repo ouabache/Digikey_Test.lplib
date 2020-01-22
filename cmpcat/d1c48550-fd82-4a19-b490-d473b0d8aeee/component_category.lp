@@ -1,0 +1,10 @@
+(librepcb_component_category d1c48550-fd82-4a19-b490-d473b0d8aeee
+ (name "MAGNETIC")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:36:40Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

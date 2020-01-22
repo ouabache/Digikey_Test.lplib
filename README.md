@@ -1,2 +1,12 @@
-# Digikey_Test.lplib
-Experimantal repo for kicad conversion tool. Do NOT Use
+# Digikey_Test
+
+## Description
+
+This is a [LibrePCB](https://librepcb.org) library!
+
+Experimental repo. Do NOT use
+
+## License
+
+
+Creative Commons CC-BY-SA 4.0 License

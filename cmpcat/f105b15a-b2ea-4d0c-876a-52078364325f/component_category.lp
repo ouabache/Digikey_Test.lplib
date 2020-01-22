@@ -1,0 +1,10 @@
+(librepcb_component_category f105b15a-b2ea-4d0c-876a-52078364325f
+ (name "PMIC")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-21T23:56:12Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

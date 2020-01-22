@@ -1,0 +1,10 @@
+(librepcb_component_category 844b8922-7177-440f-92fc-d3dd68b6fec7
+ (name "LINEAR")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T02:17:48Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 9edebe4e-9e32-4f6b-8e77-e3eecdc44262
+ (name "SWITCHES")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T00:36:56Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

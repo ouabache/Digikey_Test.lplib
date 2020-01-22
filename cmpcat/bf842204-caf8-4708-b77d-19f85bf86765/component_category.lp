@@ -1,0 +1,10 @@
+(librepcb_component_category bf842204-caf8-4708-b77d-19f85bf86765
+ (name "FUSES")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T16:20:30Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 8be22e7f-09dc-46db-8b12-c82f2f9d8688
+ (name "MEMORY")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T16:20:16Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

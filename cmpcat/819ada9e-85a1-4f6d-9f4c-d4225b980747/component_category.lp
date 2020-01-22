@@ -1,0 +1,10 @@
+(librepcb_component_category 819ada9e-85a1-4f6d-9f4c-d4225b980747
+ (name "ALARMS")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T16:34:42Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

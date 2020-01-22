@@ -1,0 +1,10 @@
+(librepcb_component_category f5457839-4767-4541-8249-70aea9f3b052
+ (name "SOCKETS")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-22T16:20:49Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 67216119-7357-4f7a-b7d6-3a7ef10ce34e
+ (name "Data-Acquisition")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-21T23:55:33Z)
+ (deprecated false)
+ (parent 2daf8e3a-3a65-457e-843c-815c5fb22c20)
+)
