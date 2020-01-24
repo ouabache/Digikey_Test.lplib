@@ -1,6 +1,6 @@
 (librepcb_library 91851fb7-d0cf-4afc-892e-104d21e5bd76
  (name "Digikey_Test")
- (description "experimental repo for kicad conversion tool.  Do Not use")
+ (description "kicad conversion test lib\nExperimental, do not use\nReleased under CC-BY-SA 4.0 License")
  (keywords "")
  (author "John Eaton")
  (version "0.1")
